@@ -1,6 +1,10 @@
 # JsonReader
 
 ## Table of Contents
+- [Question](#question)
+- [Used IMPORT](#used-import)
+- [Code Directory Structure](#code-directory-structure)
+- [Output Image](#output-image)
 
 ### Question
 ![Question](Images/question.png)
